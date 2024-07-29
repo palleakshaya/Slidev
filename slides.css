@@ -1,0 +1,7 @@
+.slide.label {
+    background-image: url("https://www.shutterstock.com/image-illustration/four-math-operators-symbol-spotlighted-260nw-1622827825.jpg");
+    background-size: cover; /* Adjusts the background image size */
+    background-position: center; /* Centers the background image */
+    color: #ffffff; /* Adjust text color for readability */
+    /* Add any additional styling here */
+}
